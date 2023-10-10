@@ -12,11 +12,7 @@ function newItem() {
     }
   
     // to strike item on list:
-    function crossOut() {
-      li.toggleClass("strike");
-    }
-  
-    li.on("dblclick", function crossOut() {
+      li.on("dblclick", function crossOut() {
       li.toggleClass("strike")
     });
   
