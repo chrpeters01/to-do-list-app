@@ -6,7 +6,7 @@ font: normal normal 13px/16px "Open Sans", sans-serif;
 background: #dfdfdf;
 }
 
-container {
+.container {
 padding: 20px;
 width: 300px;
 margin: 0 auto;
